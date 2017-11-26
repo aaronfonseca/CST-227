@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B038B558-7B0B-4EF5-A6A3-75D0F4CF47FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cst227_milestone3/Grid.cs">
+    <Files>
+      <File FileName="cst227_milestone3/Cell.cs" Line="21" Column="19" />
+      <File FileName="cst227_milestone3/Driver.cs" Line="3" Column="32" />
+      <File FileName="cst227_milestone3/Grid.cs" Line="3" Column="31" />
+      <File FileName="cst227_milestone3/IPlayable.cs" Line="1" Column="1" />
+      <File FileName="cst227_milestone3/MinesweeperGame.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.cst227__milestone3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

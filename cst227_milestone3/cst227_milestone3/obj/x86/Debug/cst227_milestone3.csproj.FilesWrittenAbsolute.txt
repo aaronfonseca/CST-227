@@ -1,0 +1,5 @@
+/Users/aaron.fonseca/projects/gitHubCST227/cst227_milestone3/cst227_milestone3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/aaron.fonseca/projects/gitHubCST227/cst227_milestone3/cst227_milestone3/bin/Debug/cst227_milestone3.exe.mdb
+/Users/aaron.fonseca/projects/gitHubCST227/cst227_milestone3/cst227_milestone3/bin/Debug/cst227_milestone3.exe
+/Users/aaron.fonseca/projects/gitHubCST227/cst227_milestone3/cst227_milestone3/obj/x86/Debug/cst227_milestone3.exe
+/Users/aaron.fonseca/projects/gitHubCST227/cst227_milestone3/cst227_milestone3/obj/x86/Debug/cst227_milestone3.exe.mdb
