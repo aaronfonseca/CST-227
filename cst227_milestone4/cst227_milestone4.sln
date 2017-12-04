@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cst227_milestone4", "cst227_milestone4\cst227_milestone4.csproj", "{BFAF6C0D-7EDE-4235-A8D0-86CEF692B9BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAF6C0D-7EDE-4235-A8D0-86CEF692B9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAF6C0D-7EDE-4235-A8D0-86CEF692B9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAF6C0D-7EDE-4235-A8D0-86CEF692B9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAF6C0D-7EDE-4235-A8D0-86CEF692B9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BC7843B-F0DD-4BC3-B5E4-901EB0DF9AAE}
+	EndGlobalSection
+EndGlobal
