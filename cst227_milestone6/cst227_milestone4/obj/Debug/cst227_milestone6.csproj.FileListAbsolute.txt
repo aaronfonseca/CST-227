@@ -1,0 +1,12 @@
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\obj\Debug\cst227_milestone6.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\obj\Debug\cst227_milestone6.csproj.GenerateResource.Cache
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\obj\Debug\cst227_milestone6.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\obj\Debug\cst227_milestone6.Properties.Resources.resources
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\bin\Debug\cst227_milestone6.exe.config
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\bin\Debug\cst227_milestone6.exe
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\bin\Debug\cst227_milestone6.pdb
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\obj\Debug\cst227_milestone6.Grid.resources
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\obj\Debug\cst227_milestone6.MINESWEEPER.resources
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\obj\Debug\cst227_milestone6.exe
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\obj\Debug\cst227_milestone6.pdb
+C:\Users\IEUser\source\repos\cst227_milestone6\cst227_milestone4\obj\Debug\cst227_milestone6.highScore_Form.resources
