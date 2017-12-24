@@ -1,0 +1,11 @@
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\obj\Debug\cst227_milestone5.csproj.GenerateResource.Cache
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\obj\Debug\cst227_milestone5.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\bin\Debug\cst227_milestone5.exe.config
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\bin\Debug\cst227_milestone5.exe
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\bin\Debug\cst227_milestone5.pdb
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\obj\Debug\cst227_milestone5.grid.resources
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\obj\Debug\cst227_milestone5.MINESWEEPER.resources
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\obj\Debug\cst227_milestone5.Properties.Resources.resources
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\obj\Debug\cst227_milestone5.exe
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\obj\Debug\cst227_milestone5.pdb
+C:\Users\IEUser\source\repos\cst227_milestone5\cst227_milestone4\obj\Debug\cst227_milestone5.csprojResolveAssemblyReference.cache
